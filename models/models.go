@@ -6,7 +6,7 @@ import (
 
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
-	"scrum-poker/pkg/setting"
+	"scrum-poker-api/pkg/setting"
 )
 
 var db *gorm.DB

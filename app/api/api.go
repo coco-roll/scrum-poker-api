@@ -6,8 +6,8 @@ import (
 	"github.com/gorilla/websocket"
 	"math/rand"
 	"net/http"
-	"scrum-poker/models"
-	"scrum-poker/pkg/e"
+	"scrum-poker-api/models"
+	"scrum-poker-api/pkg/e"
 	"strconv"
 	"strings"
 )
